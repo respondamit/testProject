@@ -1,0 +1,10 @@
+…or create a new repository on the command line
+echo "# learngit" >> README.md
+git init
+git add README.md or git add file or -A
+git commit -m "first commit"
+git remote add origin https://github.com/Kemmyy/learngit.git
+git push -u origin master
+
+git clone repoName
+git pull origin master
